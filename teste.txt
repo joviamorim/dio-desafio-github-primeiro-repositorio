@@ -1,0 +1,1 @@
+Isso é um teste para a realização de um commit pelo Git Bash.
